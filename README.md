@@ -1,0 +1,2 @@
+# bot.xe
+PRIVATE NOTE
