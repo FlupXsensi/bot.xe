@@ -1,2 +1,2 @@
 # bot.xe
-PRIVATE NOTE
+serious
